@@ -1,0 +1,26 @@
+title: TuneUp.ai
+email: yanli@tuneup.ai
+description: >-
+  AI-based, fully automatic parameter tuning solutions for servers, data
+  centers, mobile devices, IoT, and supercomputers.
+
+# minima is the default GitHub Pages theme — no plugins needed.
+theme: minima
+
+# Pages shown in the top navigation (in order).
+header_pages:
+  - pilot.md
+
+# Set this to your published URL once known, e.g. https://USERNAME.github.io
+# baseurl: ""   # subpath of your site, e.g. /tuneup-site (only if not a user/org page)
+# url: ""       # the base hostname & protocol
+
+show_excerpts: false
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
