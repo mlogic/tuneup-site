@@ -11,9 +11,17 @@ theme: minima
 header_pages:
   - pilot.md
 
-# Set this to your published URL once known, e.g. https://USERNAME.github.io
-# baseurl: ""   # subpath of your site, e.g. /tuneup-site (only if not a user/org page)
-# url: ""       # the base hostname & protocol
+# --- Where the site is served -------------------------------------------------
+# CURRENT: project subpath at https://mlogic.github.io/tuneup-site/
+baseurl: "/tuneup-site"
+url: "https://mlogic.github.io"
+#
+# CUTOVER to the tuneup.ai custom domain (after DNS is pointed at GitHub Pages):
+# change the two lines above to:
+#   baseurl: ""
+#   url: "https://tuneup.ai"
+# All page links use `relative_url`, so this is the only change needed.
+# ------------------------------------------------------------------------------
 
 show_excerpts: false
 

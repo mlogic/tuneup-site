@@ -4,7 +4,7 @@ title: 优码云调优
 permalink: /zh/
 ---
 
-*[English](/) · [中文](/zh/)*
+*[English]({{ '/' | relative_url }}) · [中文]({{ '/zh/' | relative_url }})*
 
 ### 优码云调优引领 Performance Tuning-as-a-Service 革命
 
@@ -14,13 +14,13 @@ permalink: /zh/
 
 ## 行业痛点：大部分服务器系统都处于欠调优状态
 
-![响应速度慢](/assets/img/slow-website-zh.png){:width="220"}
+![响应速度慢]({{ '/assets/img/slow-website-zh.png' | relative_url }}){:width="220"}
 **网站、App 等服务响应速度慢，承载用户数量远低于预期**
 
-![耗能发热](/assets/img/high-temp.png){:width="220"}
+![耗能发热]({{ '/assets/img/high-temp.png' | relative_url }}){:width="220"}
 **系统耗能、发热和运营成本远超预期**
 
-![负载波动](/assets/img/fluc-perf-zh.png){:width="220"}
+![负载波动]({{ '/assets/img/fluc-perf-zh.png' | relative_url }}){:width="220"}
 **宕机式应对突发性负载波动**
 
 ---
@@ -35,45 +35,45 @@ permalink: /zh/
 - 开销巨大：占 TCO 的 20% 或更高
 - 效果不稳定：无法智能应对未来状况
 
-![复杂的代码](/assets/img/complex_code.jpg){:width="300"}
+![复杂的代码]({{ '/assets/img/complex_code.jpg' | relative_url }}){:width="300"}
 
 ---
 
 ## 优码云调优将最先进的人工智能调优简化为三步
 
-![注册](/assets/img/register-zh.png){:width="220"}
+![注册]({{ '/assets/img/register-zh.png' | relative_url }}){:width="220"}
 **1. 注册** — 在我们的网站 jiasu.ai 注册一个账号
 
-![下载](/assets/img/download-zh.png){:width="220"}
+![下载]({{ '/assets/img/download-zh.png' | relative_url }}){:width="220"}
 **2. 下载** — 下载一个轻量级客户端并安装到服务器上
 
-![完成](/assets/img/perf_increase-zh.png){:width="220"}
+![完成]({{ '/assets/img/perf_increase-zh.png' | relative_url }}){:width="220"}
 **3. 完成！** — 服务器性能开始提高，几天后达到最优状态
 
 ---
 
 ## 优码云调优 应用场景
 
-![广泛适用](/assets/img/apps-zh.png){:width="220"}
+![广泛适用]({{ '/assets/img/apps-zh.png' | relative_url }}){:width="220"}
 **广泛适用于各种系统**
 
-![可调优各项指标](/assets/img/params-zh.png){:width="220"}
+![可调优各项指标]({{ '/assets/img/params-zh.png' | relative_url }}){:width="220"}
 **可调优各项指标**
 
-![按用量收费](/assets/img/charge-zh.png){:width="220"}
+![按用量收费]({{ '/assets/img/charge-zh.png' | relative_url }}){:width="220"}
 **按用量收费，前期 0 投入**
 
 ---
 
 ## 优码云调优背后的专有技术
 
-![深度强化学习](/assets/img/rl.png){:width="220"}
+![深度强化学习]({{ '/assets/img/rl.png' | relative_url }}){:width="220"}
 **深度强化机器学习 (Deep Reinforcement Learning) 已在围棋等复杂项目上全面超越人类的智慧水平**
 
-![深度神经网络](/assets/img/dnn.png){:width="220"}
+![深度神经网络]({{ '/assets/img/dnn.png' | relative_url }}){:width="220"}
 **我们的深度强化机器学习技术可自动试探、分析待调优系统及负载的特性，完全无需人工干预**
 
-![云端调优](/assets/img/cloudtuning.png){:width="220"}
+![云端调优]({{ '/assets/img/cloudtuning.png' | relative_url }}){:width="220"}
 **深度强化机器学习实施复杂，我们的专利系统采用一个轻量级客户端传输系统信息到云端，所有复杂的机器学习全部在云端完成**
 
 ---

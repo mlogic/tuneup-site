@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-*[English](/) · [中文](/zh/)*
+*[English]({{ '/' | relative_url }}) · [中文]({{ '/zh/' | relative_url }})*
 
 ### TuneUp.ai Performance Tuning-as-a-Service
 
@@ -13,13 +13,13 @@ title: Home
 
 ## Most computers are not at their best performance
 
-![Slow websites or apps](/assets/img/slow-website-en.png){:width="220"}
+![Slow websites or apps]({{ '/assets/img/slow-website-en.png' | relative_url }}){:width="220"}
 **Slow websites or apps that cannot handle requests smoothly**
 
-![Expensive electricity and cooling bills](/assets/img/high-temp.png){:width="220"}
+![Expensive electricity and cooling bills]({{ '/assets/img/high-temp.png' | relative_url }}){:width="220"}
 **Expensive electricity and cooling bills**
 
-![Whole system brought down by small workload spikes](/assets/img/fluc-perf-en.png){:width="220"}
+![Whole system brought down by small workload spikes]({{ '/assets/img/fluc-perf-en.png' | relative_url }}){:width="220"}
 **Whole system brought down by small workload spikes**
 
 ---
@@ -34,45 +34,45 @@ title: Home
 - Tuning time and cost comprise a big part of your service bill.
 - You can't know the tuning effect before spending money to do it.
 
-![Complex code](/assets/img/complex_code.jpg){:width="300"}
+![Complex code]({{ '/assets/img/complex_code.jpg' | relative_url }}){:width="300"}
 
 ---
 
 ## TuneUp.ai Brings the Latest AI-based Tuning to You in Three Steps
 
-![Sign up at tuneup.ai](/assets/img/register-en.png){:width="220"}
+![Sign up at tuneup.ai]({{ '/assets/img/register-en.png' | relative_url }}){:width="220"}
 **1. Sign up at tuneup.ai** — Register an account on tuneup.ai
 
-![Download the client agent](/assets/img/download-en.png){:width="220"}
+![Download the client agent]({{ '/assets/img/download-en.png' | relative_url }}){:width="220"}
 **2. Download the client agent** — Download and install our lightweight client agent
 
-![Done](/assets/img/perf_increase-en.png){:width="220"}
+![Done]({{ '/assets/img/perf_increase-en.png' | relative_url }}){:width="220"}
 **3. Done!** — Watch the performance of your system go higher in one or two days
 
 ---
 
 ## Versatility of Our Products
 
-![Applies to many scenarios](/assets/img/apps-en.png){:width="220"}
+![Applies to many scenarios]({{ '/assets/img/apps-en.png' | relative_url }}){:width="220"}
 **Applies to many scenarios**
 
-![You pick the tuning goal](/assets/img/params-en.png){:width="220"}
+![You pick the tuning goal]({{ '/assets/img/params-en.png' | relative_url }}){:width="220"}
 **You pick the tuning-up goal**
 
-![We charge by how much you use](/assets/img/charge-en.png){:width="220"}
+![We charge by how much you use]({{ '/assets/img/charge-en.png' | relative_url }}){:width="220"}
 **We charge by how much you use**
 
 ---
 
 ## Our Technologies
 
-![Deep Reinforcement Learning](/assets/img/rl.png){:width="220"}
+![Deep Reinforcement Learning]({{ '/assets/img/rl.png' | relative_url }}){:width="220"}
 **Deep Reinforcement Learning has beaten the best human players in games like StarCraft and Go**
 
-![Deep neural network tuner](/assets/img/dnn.png){:width="220"}
+![Deep neural network tuner]({{ '/assets/img/dnn.png' | relative_url }}){:width="220"}
 **Our Deep Reinforcement Learning-based tuner is capable of testing and measuring all parameter combinations on its own in a highly efficient manner**
 
-![Cloud tuning](/assets/img/cloudtuning.png){:width="220"}
+![Cloud tuning]({{ '/assets/img/cloudtuning.png' | relative_url }}){:width="220"}
 **We do all our complex machine learning tasks online, relieving customers from having to understand those onerous tasks**
 
 ---
@@ -98,4 +98,4 @@ Contact us if you wish to know more about our product roadmap and release plans.
 
 📧 **[yanli@tuneup.ai](mailto:yanli@tuneup.ai?subject=TuneUp.ai%20Inquiry)**
 
-Also see the [Pilot Benchmark Framework](/pilot/) and the [TuneUp.ai White Paper](/assets/pdf/tuneup-ai-white-paper-2019.pdf).
+Also see the [Pilot Benchmark Framework]({{ '/pilot/' | relative_url }}) and the [TuneUp.ai White Paper]({{ '/assets/pdf/tuneup-ai-white-paper-2019.pdf' | relative_url }}).

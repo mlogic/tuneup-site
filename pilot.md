@@ -20,7 +20,7 @@ interfaces with C/C++/Python bindings.
 ## Just take me to the code!
 
 - [GitHub project](https://github.com/ascar-io/pilot-bench)
-- [MASCOTS'16 paper (PDF)](/assets/pdf/pilot-mascots16-final2.pdf)
+- [MASCOTS'16 paper (PDF)]({{ '/assets/pdf/pilot-mascots16-final2.pdf' | relative_url }})
 
 ## Pilot Helps To Answer These Questions
 
@@ -52,10 +52,10 @@ interfaces with C/C++/Python bindings.
 
 ## Publication
 
-Our [MASCOTS'16 paper](/assets/pdf/pilot-mascots16-final2.pdf) contains
+Our [MASCOTS'16 paper]({{ '/assets/pdf/pilot-mascots16-final2.pdf' | relative_url }}) contains
 technical details of Pilot. See also the related SC17 materials:
-[paper](/assets/pdf/li-capes-sc17.pdf) ·
-[slides](/assets/pdf/li-capes-sc17-slides.pdf).
+[paper]({{ '/assets/pdf/li-capes-sc17.pdf' | relative_url }}) ·
+[slides]({{ '/assets/pdf/li-capes-sc17-slides.pdf' | relative_url }}).
 
 ## Acknowledgments
 
