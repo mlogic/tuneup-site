@@ -13,13 +13,13 @@ header_pages:
 
 # --- Where the site is served -------------------------------------------------
 # CURRENT: project subpath at https://mlogic.github.io/tuneup-site/
-baseurl: "/tuneup-site"
-url: "https://mlogic.github.io"
+# baseurl: "/tuneup-site"
+# url: "https://mlogic.github.io"
 #
 # CUTOVER to the tuneup.ai custom domain (after DNS is pointed at GitHub Pages):
 # change the two lines above to:
-#   baseurl: ""
-#   url: "https://tuneup.ai"
+baseurl: ""
+url: "https://tuneup.ai"
 # All page links use `relative_url`, so this is the only change needed.
 # ------------------------------------------------------------------------------
 
